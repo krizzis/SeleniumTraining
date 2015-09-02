@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="selenium-2.47">
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/selenium-2.47.1" />
+      <root url="file://C:/Program Files/Java/selenium-2.47.1/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/selenium-2.47.1" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/selenium-2.47.1" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/Java/selenium-2.47.1/libs" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/Java/selenium-2.47.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
