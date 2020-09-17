@@ -2,7 +2,7 @@
 1. [ Description. ](#desc)
 2. [ Usage tips. ](#usage)
 
-[a relative link](SeleniumProject/SeleniumProject.iml)
+[a relative link](hw1/newton.html)
 ## 1. Description
 
 sometext
